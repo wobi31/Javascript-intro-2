@@ -1,4 +1,4 @@
-## Javascript-intro-2
+# Javascript-intro-2
 
 #Tugas 1:
 ##Deskripsi
